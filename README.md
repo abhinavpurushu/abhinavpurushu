@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, This is Abhinav</h1>
-<h3 align="center">An aspiring Statistician and Programmer</h3>
+<h1 align="left">Hi 👋, This is Abhinav</h1>
+<h3 align="left">An aspiring Statistician and Programmer</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!" alt="Welcome to my GitHub!" />
 </p>
 
