@@ -6,11 +6,9 @@
 </p>
 
 ## About Me
-👨‍💻 I'm a passionate programmer with a love for data analysis and visualization. I enjoy applying my skills to uncover insights and create meaningful interpretations from data.
-
-🔢 I have a deep passion for Mathematics, Statistics, and Programming, with a strong interest in predictive modeling and statistical learning.
-
-📈 I enjoy using my skills to uncover insights and create meaningful interpretations of data. Currently, I am exploring advanced data analysis techniques and machine learning.
+👨‍💻 I'm a passionate programmer with a love for data analysis and visualization.  
+🔢 Deep interest in Mathematics, Statistics & Programming—especially predictive modeling and statistical learning.  
+📈 Currently exploring advanced data analysis techniques and machine learning.
 
 ## Education
 🎓 **Central University of Tamil Nadu**  
@@ -32,6 +30,11 @@
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="excel" width="40" height="40"/> </a>
 <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="40" height="40"/> </a>
 </p>
+
+## Certifications
+
+- Machine Learning - IIT Delhi and Hindu College
+
 
 ## GitHub Stats
 <details>
