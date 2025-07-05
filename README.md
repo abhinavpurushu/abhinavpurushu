@@ -6,7 +6,7 @@
 </p>
 
 ## About Me
-👨‍💻 I'm a passionate programmer with a love for data analysis and visualization.  
+👨‍💻 I'm an MSc Statistics student and a passionate programmer with a love for data analysis and visualization.  
 🔢 Deep interest in Mathematics, Statistics & Programming—especially predictive modeling and statistical learning.  
 📈 Currently exploring advanced data analysis techniques and machine learning.
 
