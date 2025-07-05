@@ -12,9 +12,13 @@
 
 📈 I enjoy using my skills to uncover insights and create meaningful interpretations of data. Currently, I am exploring advanced data analysis techniques and machine learning.
 
-## Alma Mater
+## Education
+🎓 **Central University of Tamil Nadu**  
+*M.Sc. Statistics*  
+*2025-2027(expected)*
+
 🎓 **Hindu College, University of Delhi**  
-*B.Sc (Hons) Mathematics*  
+*B.Sc. (Hons.) Mathematics*  
 *2021-2024*
 
 ## Languages and Tools
