@@ -34,6 +34,7 @@
 ## Certifications
 
 - Machine Learning - IIT Delhi and Hindu College
+- Julia Scientific Programming - University of Cape Town
 
 
 ## GitHub Stats
