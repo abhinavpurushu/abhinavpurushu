@@ -50,7 +50,7 @@ I’m a passionate MSc Statistics student and an enthusiastic programmer with a 
 
 ## Connect with me
 <p align="center">
-<a href="mailto:abhinavpurushu@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:abhinavpurushu@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="Outlook" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhinavpurushu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://twitter.com/abhinavpurushu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
