@@ -8,6 +8,13 @@
 I’m a passionate MSc Statistics student and an enthusiastic programmer with a strong interest in data analysis and visualization. My interests lie at the intersection of statistics, mathematics, and programming, where I thrive on solving real-world problems through data-driven approaches. I’m particularly drawn to statistical modeling, statistical learning, and predictive analytics. I'm Currently deepening my expertise in advanced data analysis techniques and machine learning. 
 
 
+## Connect with me
+<p align="center">
+<a href="mailto:abhinavpurushu@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="Outlook" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abhinavpurushu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/abhinavpurushu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
+
 
 ## Education
 🎓 **Central University of Tamil Nadu**  
@@ -47,10 +54,3 @@ I’m a passionate MSc Statistics student and an enthusiastic programmer with a 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abhinavpurushu&theme=radical&utcOffset=5" alt="Productive Time" />
   </p>
 </details>
-
-## Connect with me
-<p align="center">
-<a href="mailto:abhinavpurushu@outlook.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg" alt="Outlook" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abhinavpurushu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/abhinavpurushu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
