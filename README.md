@@ -5,7 +5,11 @@
 </p>
 
 
-I’m a passionate MSc Statistics student and an enthusiastic programmer with a strong interest in data analysis and visualization. My interests lie at the intersection of statistics, mathematics, and programming, where I thrive on solving real-world problems through data-driven approaches. I’m particularly drawn to statistical modeling, statistical learning, and predictive analytics. I'm Currently deepening my expertise in advanced data analysis techniques and machine learning. 
+Statistics, at its core, is a framework for reasoning under uncertainty. But the classical tools were build for a world where dimensions are fixed and asymptotics behave nicely. What happens when the number of parameters grow with or even exceeds the number of samples? When consistency breaks down? When the geometry itself becomes the problem?
+
+Hey! I'm Abhinav Purushu, a Master's Student in Statistics at the Central University of Tamil Nadu, with an undergraduate degree in Mathematics (Hons.) from Hindu College, University of Delhi. I'm primarily interested in areas where traditional statistical frameworks begin to break down in high-dimensional settings, with interests in sparsity and regularisation, concentration phenomena, and asymptotic behaviour, as well as related questions arising in Statistical Learning Theory. What motivates me is understanding the ‘why’ behind statistical methods, not just ‘how’.
+
+Currently, I'm undertaking a research internship in an interdisciplinary setting and am actively seeking research collaborations and opportunities. I would be glad to connect with researchers working in High Dimensional Statistics, Statistical Learning Theory, or related fields.
 
 
 ## Connect with me
