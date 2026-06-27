@@ -8,11 +8,11 @@
 
 ## 📊 About Me
 
-Statistics, at its core, is a framework for reasoning under uncertainty. But the classical tools were built for a world where dimensions are fixed and asymptotics behave nicely. What happens when we venture beyond? That's where my curiosity lies.
+Statistics, at its core, is a framework for reasoning under uncertainty. But the classical tools were build for a world where dimensions are fixed and asymptotics behave nicely. What happens when the number of parameters grow with or even exceeds the number of samples? When consistency breaks down? When the geometry itself becomes the problem?
 
-Hey! I'm **Abhinav Purushu**, a Master's Student in Statistics at the **Central University of Tamil Nadu**, with an undergraduate degree in Mathematics (Hons.) from **Hindu College, University of Delhi**. I'm passionate about statistical learning, high-dimensional data analysis, and computational statistics.
+Hey! I'm **Abhinav Purushu**, a Master's Student in Statistics at the **Central University of Tamil Nadu**, with an undergraduate degree in Mathematics (Hons.) from **Hindu College, University of Delhi**. I'm primarily interested in areas where traditional statistical frameworks begin to break down in high-dimensional settings, with interests in sparsity and regularisation, concentration phenomena, and asymptotic behaviour, as well as related questions arising in Statistical Learning Theory. What motivates me is understanding the ‘why’ behind statistical methods, not just ‘how’.
 
-Currently, I'm undertaking a research internship in an interdisciplinary setting and am actively seeking research collaborations and opportunities. I'm particularly interested in connecting with researchers working on statistical machine learning, causal inference, and modern statistical theory. Feel free to reach out if you'd like to collaborate!
+Currently, I'm undertaking a research internship in an interdisciplinary setting and am actively seeking research collaborations and opportunities. I would be glad to connect with researchers working in High Dimensional Statistics, Statistical Learning Theory, or related fields.
 
 ---
 
@@ -65,23 +65,14 @@ Currently, I'm undertaking a research internship in an interdisciplinary setting
 </a>
 </p>
 
-**Proficiencies:**
-- **Advanced:** Python (Data Analysis, ML), R (Statistical Modeling)
-- **Intermediate:** Julia (Scientific Computing), MATLAB, LaTeX
-- **Tools:** Git, Jupyter Notebooks, RStudio
 
 ---
 
-## 🎖️ Certifications
-
-- 🏆 **Machine Learning** – IIT Delhi & Hindu College
-- 🏆 **Julia Scientific Programming** – University of Cape Town
-
----
 
 ## 🔬 Research Interests
 
-- Statistical Machine Learning & High-Dimensional Statistics
+- High-Dimensional Statistics
+- Statistical Learning Theory
 - Causal Inference & Experimental Design
 - Computational Statistics & Modern Statistical Theory
 - Bayesian Methods & Uncertainty Quantification
@@ -102,9 +93,8 @@ Currently, I'm undertaking a research internship in an interdisciplinary setting
 
 ---
 
-## 🤝 Let's Collaborate!
+## 🤝 Let's Collaborate! Connect with me!
 
-I'm actively seeking research collaborations and partnerships. If you're interested in working together on projects related to statistics, machine learning, or data science, feel free to reach out!
 
 **📧 Email:** abhinavpurushu@outlook.com  
 **🔗 LinkedIn:** [abhinavpurushu](https://linkedin.com/in/abhinavpurushu)  
